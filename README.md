@@ -6,7 +6,7 @@ ReShell Files is the File Manager included with the ReShell Desktop Environment.
 ## Editing
 ### Prerequisites
 - Visual Studio 2022
-- Inter Font
+- [Inter Font](https://fonts.google.com/specimen/Inter)
 - .NET Framework Development modules
 
 ### Opening the solution
